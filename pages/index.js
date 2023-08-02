@@ -5,7 +5,7 @@ import LakshyaPNG from '../assets/hey_png_png.png';
 const Home = () => {
   const [newsItems, setNewsItems] = useState([
     'Breaking News: ErrEase v1.0.1 Released!🚀',
-    '🚩Notice: This project uses the free tier of OpenAI API which have daily limit for requests. Please use it sincerely and be patient if the API is slow to respond.🫶',
+    '🚩Notice: This project uses the free tier of OpenAI API which have daily limit for requests.Please use it sincerely and be patient if the API is slow to respond.🫶',
     'New Feature: Multi-language Support Added✅ ',
     '🚩Notice: This project uses the free tier of OpenAI API which have daily limit for requests. Please use it sincerely and be patient if the API is slow to respond.🫶',
     '🚩Looking for Contributors - Contribute to ErrEase🫂',
