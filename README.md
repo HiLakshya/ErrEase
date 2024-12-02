@@ -1,8 +1,11 @@
-
-
 # ErrEase - Simplifying Error Understanding and Solutions for Developers
 
 ErrEase is project designed to empower developers in their quest for bug-free code. As developers dive into the intricacies of programming, they often encounter perplexing error messages that can hinder progress and cause frustration. ErrEase comes to the rescue with its powerful implementation of the OpenAI GPT language model, providing developers with clear and concise explanations of these enigmatic error messages in plain, easy-to-understand language. Gone are the days of deciphering complex technical jargon, as ErrEase breaks down each error into simple terms, enabling developers of all levels to grasp the root cause instantly.
+---
+### 📹 Demo Video
+
+[![ErrEase Demo Video](https://img.youtube.com/vi/EZuZtjw2yCw/maxresdefault.jpg)](https://youtu.be/EZuZtjw2yCw?si=U1ZZY5l-Xxc9V_bN "Watch ErrEase in Action")
+
 ## Live Link
 Checkout the project live [here](https://errease.netlify.com/)
 ## Features
